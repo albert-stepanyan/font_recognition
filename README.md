@@ -40,6 +40,6 @@
 
 ## Результат работы в HTML
 
-[Часть 1.](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1a.html)
+[Часть 1](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1a.html)
  
  
