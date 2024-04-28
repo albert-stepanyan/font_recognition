@@ -40,7 +40,7 @@
 
 ## Результат работы в HTML
 
-[Часть 1]()
+[Часть 1](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1a.html?token=GHSAT0AAAAAACQC37RAE525MMHJW3VH6KSKZROQ2UQ)
 [Часть 2]()
 [Часть 3]()
  
