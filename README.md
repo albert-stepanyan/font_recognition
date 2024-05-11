@@ -41,7 +41,7 @@
 ## Результат работы в HTML
 
 [Часть 1](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1a.html?token=GHSAT0AAAAAACRICA5RBYUAGEBGPKXNNYZMZR7YOPQ)
-[Часть 2](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1b.html?token=GHSAT0AAAAAACQC37RBAABFDKPCLMEFJ6P6ZRORFYA)
+[Часть 2](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1b.html?token=GHSAT0AAAAAACRICA5RRYRCM5NFFWQFPZHKZR7YQJQ)
 [Часть 3](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1c.html?token=GHSAT0AAAAAACQC37RAS2WL4U5VQPSMYKDMZRORDFA)
  
  
