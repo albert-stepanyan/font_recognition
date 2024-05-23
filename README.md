@@ -46,7 +46,6 @@
 
 ## Работа выполнена
 
-Python 3.11. 
-Pip 24.0 
-файл requirements.txt прилагается
- 
+Python 3.11   
+Pip 24.0    
+файл requirements.txt прилагается   
