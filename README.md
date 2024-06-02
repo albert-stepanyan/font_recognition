@@ -44,8 +44,8 @@
 [Часть 2](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1b.html?token=GHSAT0AAAAAACRICA5RRYRCM5NFFWQFPZHKZR7YQJQ)
 [Часть 3](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1c.html?token=GHSAT0AAAAAACRICA5QHVQJ2LCSEFHENO42ZR7YSBQ)
 
-## Работа выполнена
+## Работа выполнена с использованием
 
-Python 3.11   
+Python 3.11.7   
 Pip 24.0    
 файл requirements.txt прилагается   
