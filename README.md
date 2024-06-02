@@ -42,7 +42,7 @@
 
 [Часть 1]()
 [Часть 2]()
-[Часть 3]()
+[Часть 3](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_3.html)
 
 ## Работа выполнена с использованием
 
