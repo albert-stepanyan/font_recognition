@@ -40,9 +40,9 @@
 
 ## Результат работы в HTML
 
-[Часть 1](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1a.html?token=GHSAT0AAAAAACRICA5RBYUAGEBGPKXNNYZMZR7YOPQ)
-[Часть 2](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1b.html?token=GHSAT0AAAAAACRICA5RRYRCM5NFFWQFPZHKZR7YQJQ)
-[Часть 3](https://raw.githack.com/albert-stepanyan/kvant_1/main/Kvant_1c.html?token=GHSAT0AAAAAACRICA5QHVQJ2LCSEFHENO42ZR7YSBQ)
+[Часть 1]()
+[Часть 2]()
+[Часть 3]()
 
 ## Работа выполнена с использованием
 
