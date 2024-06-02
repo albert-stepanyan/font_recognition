@@ -40,8 +40,8 @@
 
 ## Результат работы в HTML
 
-[Часть 1]()
-[Часть 2]()
+[Часть 1](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_1.html)
+[Часть 2](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_2.html)
 [Часть 3](https://raw.githack.com/albert-stepanyan/font_recognition/main/font_recognition_3.html)
 
 ## Работа выполнена с использованием
