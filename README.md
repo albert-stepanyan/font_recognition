@@ -50,4 +50,4 @@ Python 3.11.7
 Pip 24.0    
 Файл requirements.txt прилагается   
 Файл fonts_sample.csv с перечнем используемых 15 шрифтов прилагается   
-Модель model_font_recognition.keras с весами можно скачать по ссылке: https://disk.yandex.ru/d/RchSowjfJIN3nA
+Веса готовой модели model_font_recognition.keras можно скачать по ссылке: https://disk.yandex.ru/d/RchSowjfJIN3nA
