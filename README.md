@@ -48,4 +48,5 @@
 
 Python 3.11.7   
 Pip 24.0    
-файл requirements.txt прилагается   
+Файл requirements.txt прилагается   
+Файл fonts_sample.csv с перечнем используемых 15 шрифтов прилагается
